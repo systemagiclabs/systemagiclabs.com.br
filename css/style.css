@@ -52,6 +52,8 @@ a { text-decoration:none; }
 
 header { height:103px; width:100%; min-width:1000px; background:#004F8E; }
 .topo { width:1000px; margin:0 auto; height:103px;  }
+.center { margin:0 auto; text-align:center; font-weight:bold; }
+.underline { font-weight:bold; text-decoration: underline; }
 .logo { float:left;  width:260px; text-align:center; height:83px; padding-top:20px; }
 .idioma { width:720px; font-family: 'Montserrat', sans-serif; height:15px;  float:left; font-size:11px; color:#FFF; text-align:right; padding-right:20px; padding-top:15px; }
 .idioma a { font-family: 'Montserrat', sans-serif; font-size:11px; color:#FFF; text-decoration:none;}
