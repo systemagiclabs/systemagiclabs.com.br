@@ -74,8 +74,9 @@ color:#FFF; font-size:70px;  font-family: 'Montserrat', sans-serif; text-align:c
 .iphone { width:1000px; height:159px;  margin:0 auto; }
 .iphone-ico { position:absolute; margin-top:-210px; margin-left:75px; z-index:999; }
 .iphone-p1 { float:left; width:340px; height:159px;  }
-.iphone-p2 { float:left; width:660px; height:124px; text-align:center; font-family: 'Montserrat', sans-serif; font-size:23px; color:#646472; padding-top:35px;  }
+.iphone-p2 { float:left; width:660px; height:100px; text-align:center; font-family: 'Montserrat', sans-serif; font-size:23px; color:#646472; padding-top:22px;  }
 .iphone-p2 p { margin-bottom:20px; }
+.iphone-p3 { vertical-align:middle; text-align:center; font-family: 'Montserrat', sans-serif; font-size:14px; color:#646472;  }
 .bullets { font-family: 'Montserrat', sans-serif; color:#FFF; font-size:15px; line-height:17px; position:absolute; margin-left:355px;  margin-top:-65px; font-weight:lighter; }
 
 footer { height:145px; width:100%; min-width:1000px; background:#004F8E; clear:both;}
@@ -89,6 +90,7 @@ footer { height:145px; width:100%; min-width:1000px; background:#004F8E; clear:b
 .idioma-rodape a { font-family: 'Montserrat', sans-serif; font-size:11px; color:#FFF;  }
 .copy { padding-left:20px; font-family:Helvetica, sans-serif ; font-size:11px; padding-top:20px; color:#FFF;}
 
+img.bottom { vertical-align: text-bottom; }
 
 /*** paginas internas **/
 .top-geral-int { height:132px; width:100%; min-width:1000px; background-image:url(../images/top-int-um.jpg); background-position:center; text-align:center; padding-top:80px; }
