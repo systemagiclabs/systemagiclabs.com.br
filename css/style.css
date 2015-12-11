@@ -54,7 +54,8 @@ header { height:103px; width:100%; min-width:1000px; background:#004F8E; }
 .topo { width:1000px; margin:0 auto; height:103px;  }
 .center { margin:0 auto; text-align:center; font-weight:bold; }
 .underline { font-weight:bold; text-decoration: underline; }
-.logo { float:left;  width:260px; text-align:center; height:83px; padding-top:20px; }
+.logo { float:left;  width:260px; text-align:center; height:83px; padding-top:20px; padding-top:20px;}
+.logo-center { float:center;  text-align:center; padding-top:20px; padding-bottom:20px;}
 .idioma { width:720px; font-family: 'Montserrat', sans-serif; height:15px;  float:left; font-size:11px; color:#FFF; text-align:right; padding-right:20px; padding-top:15px; }
 .idioma a { font-family: 'Montserrat', sans-serif; font-size:11px; color:#FFF; text-decoration:none;}
 nav { height:68px;  width:660px; padding-right:80px; padding-top:5px; float:left; }
@@ -79,8 +80,11 @@ color:#FFF; font-size:70px;  font-family: 'Montserrat', sans-serif; text-align:c
 .iphone-p3 { vertical-align:middle; text-align:center; font-family: 'Montserrat', sans-serif; font-size:14px; color:#646472;  }
 .bullets { font-family: 'Montserrat', sans-serif; color:#FFF; font-size:15px; line-height:17px; position:absolute; margin-left:355px;  margin-top:-65px; font-weight:lighter; }
 
+.main-text { vertical-align:middle; text-align:center; font-family: 'Montserrat', sans-serif; font-size:23px; color:#646472; padding-bottom:22px;}
+
 footer { height:145px; width:100%; min-width:1000px; background:#004F8E; clear:both;}
 .rodape { height:145px; width:1000px;  margin:0 auto; }
+.rodape-main { float:left; height:145px; width:100%; background:#FFF; }
 .rodape-esq { float:left; height:145px; width:800px;  }
 .rodape-dir { float:left; height:100px; width:200px;  text-align:center; padding-top:45px; }
 .rodape-menu { height:50px;  width:780px; padding-left:20px; padding-top:10px; }
@@ -89,6 +93,7 @@ footer { height:145px; width:100%; min-width:1000px; background:#004F8E; clear:b
 .idioma-rodape { height:35px; padding-left:20px; width:780px; font-family: 'Montserrat', sans-serif; font-size:11px; color:#FFF; padding-top:5px; }
 .idioma-rodape a { font-family: 'Montserrat', sans-serif; font-size:11px; color:#FFF;  }
 .copy { padding-left:20px; font-family:Helvetica, sans-serif ; font-size:11px; padding-top:20px; color:#FFF;}
+.copy-main { padding-left:20px; font-family:Helvetica, sans-serif ; font-size:11px; padding-top:20px;}
 
 img.bottom { vertical-align: text-bottom; }
 
